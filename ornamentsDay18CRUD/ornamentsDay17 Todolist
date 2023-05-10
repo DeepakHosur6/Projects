@@ -1,0 +1,29 @@
+Day 17  28-02-2023
+
+Save and Search operation using query
+
+writing the query in entity class & fetching the data from database.
+-------------------------------------------------------------------------------------------------------------------------------------
+
+Search operation by NameSearch  using the query.
+
+fetching data from database through web application.
+ NameSearch.jsp file
+
+
+output is displayed in web page.
+
+-------------------------------------------------------------------------------------------------------------------------------------
+A query is used to extract data from the database. In Java if you need to fetch data from database,
+ then you need to write a query for fetching the data in your desired format.
+
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------

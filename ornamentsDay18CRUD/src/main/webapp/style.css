@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+
+
+#table {
+  border-collapse: separate;
+}
+
+#example {
+  padding: 20px;
+}
+
+#example .col {
+  border: 1px solid #c9c9c9;
+}
+
+#example .col:not(:last-child) {
+  border-right-width: 0;
+}
+
+#example .row:not(:last-child) .col {
+  border-bottom-width: 0;
+}
